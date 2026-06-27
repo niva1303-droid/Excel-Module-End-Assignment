@@ -25,3 +25,5 @@ Strategic Takeaways
 
 
 This Excel Data Analyst project successfully transformed raw e-commerce sales data into actionable business insights. Using Excel's analytical capabilities — including pivot tables, formulas, dashboards, and visualizations — management can now make informed decisions to improve revenue, profitability, and operational efficiency.
+
+<img width="1066" height="661" alt="Screenshot 2026-06-26 010710" src="https://github.com/user-attachments/assets/b254a422-7ae7-417d-83c1-b43ebe0b0350" />
