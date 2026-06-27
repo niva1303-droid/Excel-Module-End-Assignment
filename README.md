@@ -1,3 +1,5 @@
+Ecommerce Sales Data Analysis
+
 The objective of this project is to analyse Ecommerce sales data using Microsoft Excel and generate meaningful business insights through data cleaning, transformation, analysis, and visualization. 
 This project demonstrates key Excel skills required for a Data Analyst role: 
 • Data Cleaning & Validation 
