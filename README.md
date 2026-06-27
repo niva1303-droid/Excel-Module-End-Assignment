@@ -7,10 +7,10 @@ This project demonstrates key Excel skills required for a Data Analyst role:
 • Business Insights Generation
 
 Key Findings
-	Massive Growth in 2024: Sales jumped from 217 in 2023 to 999 in 2024 — a 360% increase.
-	Slight Decline in 2025: Sales dropped to 784, a 21.5% decrease compared to 2024, though still far above 2023 levels.
-	Peak Year: 2024 was the strongest year, contributing half of all sales.
-	Sustained Growth vs. Volatility: While 2025 dipped, the overall trend from 2023 → 2025 is still strongly upward.
+*Massive Growth in 2024: Sales jumped from 217 in 2023 to 999 in 2024 — a 360% increase.
+*Slight Decline in 2025: Sales dropped to 784, a 21.5% decrease compared to 2024, though still far above 2023 levels.
+*Peak Year: 2024 was the strongest year, contributing half of all sales.
+*Sustained Growth vs. Volatility: While 2025 dipped, the overall trend from 2023 → 2025 is still strongly upward.
 
 Key Business Insights
 	Growth Opportunity: Beauty is underperforming compared to other categories. Targeted promotions or product expansion could lift this segment.
