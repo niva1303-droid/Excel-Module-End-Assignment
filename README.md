@@ -1,30 +1,50 @@
-Ecommerce Sales Data Analysis
+# :dart: Ecommerce Sales Data Analysis
 
+## :triangular_flag_on_post: Objective
 The objective of this project is to analyse Ecommerce sales data using Microsoft Excel and generate meaningful business insights through data cleaning, transformation, analysis, and visualization. 
+
+## :triangular_flag_on_post: Key Skills Demonstrated
 This project demonstrates key Excel skills required for a Data Analyst role: 
-• Data Cleaning & Validation 
-• Formulas and Functions 
-• Pivot Tables & Pivot Charts 
-• Dashboard Creation 
-• Business Insights Generation
 
-Key Findings
-*Massive Growth in 2024: Sales jumped from 217 in 2023 to 999 in 2024 — a 360% increase.
-*Slight Decline in 2025: Sales dropped to 784, a 21.5% decrease compared to 2024, though still far above 2023 levels.
-*Peak Year: 2024 was the strongest year, contributing half of all sales.
-*Sustained Growth vs. Volatility: While 2025 dipped, the overall trend from 2023 → 2025 is still strongly upward.
+❄️ Data Cleaning & Validation 
 
-Key Business Insights
-	Growth Opportunity: Beauty is underperforming compared to other categories. Targeted promotions or product expansion could lift this segment.
-	Revenue Concentration: Sports + Electronics together account for nearly 45% of total revenue, showing strong dependence on these two categories.
-	Diversification Need: Heavy reliance on Sports/Electronics could be risky; boosting Beauty and Clothing would balance the portfolio.
-	Strategic Focus: Sports is already strong—investing in sustaining demand here while innovating in Beauty could maximize overall growth.
+❄️ Formulas and Functions 
 
-Strategic Takeaways
-•	Sports & Electronics: Protect and sustain these categories—they are your core drivers.
-•	Beauty & Clothing: Need targeted growth strategies (bundles, promotions, premium positioning).
-•	Home: Reliable contributor; could be leveraged as a steady growth category.
+❄️ Pivot Tables & Pivot Charts 
 
+❄️ Dashboard Creation 
+
+❄️ Business Insights Generation
+
+## :triangular_flag_on_post: Key Findings
+
+⏳Massive Growth in 2024: Sales jumped from 217 in 2023 to 999 in 2024 — a 360% increase.
+
+⏳Slight Decline in 2025: Sales dropped to 784, a 21.5% decrease compared to 2024, though still far above 2023 levels.
+
+⏳Peak Year: 2024 was the strongest year, contributing half of all sales.
+
+⏳Sustained Growth vs. Volatility: While 2025 dipped, the overall trend from 2023 → 2025 is still strongly upward.
+
+## :triangular_flag_on_post: Key Business Insights
+
+🌞Growth Opportunity: Beauty is underperforming compared to other categories. Targeted promotions or product expansion could lift this segment.
+
+🌞Revenue Concentration: Sports + Electronics together account for nearly 45% of total revenue, showing strong dependence on these two categories.
+
+🌞Diversification Need: Heavy reliance on Sports/Electronics could be risky; boosting Beauty and Clothing would balance the portfolio.
+
+🌞Strategic Focus: Sports is already strong—investing in sustaining demand here while innovating in Beauty could maximize overall growth.
+
+## :triangular_flag_on_post: Strategic Takeaways
+
+📓Sports & Electronics: Protect and sustain these categories—they are your core drivers.
+
+📓Beauty & Clothing: Need targeted growth strategies (bundles, promotions, premium positioning).
+
+📓Home: Reliable contributor; could be leveraged as a steady growth category.
+
+## :triangular_flag_on_post: Conclusion
 
 This Excel Data Analyst project successfully transformed raw e-commerce sales data into actionable business insights. Using Excel's analytical capabilities — including pivot tables, formulas, dashboards, and visualizations — management can now make informed decisions to improve revenue, profitability, and operational efficiency.
 
